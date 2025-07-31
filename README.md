@@ -13,8 +13,6 @@ Full Stack Developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=radical)
 
-[![online_shopping_store](https://github-readme-stats.vercel.app/api/pin/?username=Abdul-Rafay2005&repo=online_shopping_store.&theme=radical)](https://github.com/Abdul-Rafay2005/online_shopping_store.)
-
 
 
 
