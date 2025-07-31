@@ -13,7 +13,6 @@ Full Stack Developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdul-Rafay2005&theme=radical)
 
 ---
 
