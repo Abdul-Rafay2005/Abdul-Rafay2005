@@ -8,7 +8,7 @@ Full Stack Developer
 
 ## 📈 GitHub Stats
 
-![Abdul Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Abdul-Rafay2005 GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 
 *   ✉️  You can contact me at [mrabdulrafay7788@gmail.com](mailto:mrabdulrafay7788@gmail.com)
