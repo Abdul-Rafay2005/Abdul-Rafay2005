@@ -6,9 +6,19 @@ Full Stack Developer
 
 💻 As a \*\*Full Stack Developer\*\*, I enjoy crafting responsive, scalable, and user-friendly applications. I have strong problem-solving skills and a love for clean, maintainable code.
 
-## 📈 GitHub Stats
 
-![Abdul-Rafay2005 GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
+![Abdul Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rafay2005&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdul-Rafay2005&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rafay-18bab5356/) 
 
 *   ✉️  You can contact me at [mrabdulrafay7788@gmail.com](mailto:mrabdulrafay7788@gmail.com)
