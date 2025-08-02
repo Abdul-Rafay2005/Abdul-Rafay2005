@@ -13,6 +13,10 @@ Full Stack Developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=radical)
 
+![GitHub followers](https://img.shields.io/github/followers/Abdul-Rafay2005?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Abdul-Rafay2005?style=social)
+
+
 ## 🛠️ Languages & Databases
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
