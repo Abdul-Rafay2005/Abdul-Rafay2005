@@ -27,14 +27,11 @@ Full Stack Developer
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 
-
-
-
-
----
-
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rafay-18bab5356/) 
 
-*   ✉️  You can contact me at [mrabdulrafay7788@gmail.com](mailto:mrabdulrafay7788@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rafay-18bab5356/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mrabdulrafay7788@gmail.com)
+
+
+
