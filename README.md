@@ -17,7 +17,12 @@ Full Stack Developer
 
  ## 🏆 GitQuest Achievements
 
-![GitQuest Badge](https://gitquest.dev/api/player/Abdul-Rafay2005/badge)
+I’m an active contributor on [GitQuest](https://gitquest.dev/player/Abdul-Rafay2005)!
+
+- 🔥 Earned **50+ points** through open-source contributions
+- 🚀 [View my GitQuest profile](https://gitquest.dev/player/Abdul-Rafay2005)
+
+![GitQuest Points](https://img.shields.io/badge/GitQuest-50%2B%20Points-blueviolet?logo=github&style=flat-square)
 
 
 
