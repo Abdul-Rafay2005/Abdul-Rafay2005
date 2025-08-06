@@ -15,14 +15,15 @@ Full Stack Developer
 
  [📊 Portfolio Website](https://abdul-rafay2005.github.io/my-port-folio/): Personal site built with HTML and CSS — responsive and modern design.
 
- ## 🏆 GitQuest Achievements
+## 🏆 GitQuest Achievements
 
-I’m an active contributor on [GitQuest](https://gitquest.dev/player/Abdul-Rafay2005)!
+I'm an active contributor on [GitQuest](https://gitquest.dev/player/Abdul-Rafay2005)!
 
-- 🔥 Earned **150+ points** through open-source contributions
+- 🔥 Earned **150+ points** through open-source contributions  
+- 🧩 Completed challenges and leveled up as a contributor  
 - 🚀 [View my GitQuest profile](https://gitquest.dev/player/Abdul-Rafay2005)
 
-![GitQuest Points](https://img.shields.io/badge/GitQuest-50%2B%20Points-blueviolet?logo=github&style=flat-square)
+![GitQuest Points](https://img.shields.io/badge/GitQuest-150%2B%20Points-blueviolet?logo=github&style=flat-square)
 
 
 
