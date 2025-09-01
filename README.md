@@ -16,7 +16,7 @@ Full Stack Developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=radical)
 
- [📊 Portfolio Website](https://abdul-rafay2005.github.io/my-port-folio/): Personal site built with HTML and CSS — responsive and modern design.
+
 
 ## 🏆 GitQuest Achievements
 
