@@ -15,7 +15,6 @@ Full Stack Developer
 It features 3D elements with Three.js, smooth animations with Framer Motion, and a working contact form powered by EmailJS.  
 
 🔗 **Live Demo:** [3D Portfolio Website](https://3-d-portfolio-seven-kappa.vercel.app/)  
-💻 **Source Code:** [GitHub Repo](https://github.com/Abdul-Rafay2005/3D_Portfolio)  
 
 
 ## 📊 GitHub Stats
