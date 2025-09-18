@@ -7,7 +7,7 @@ Full Stack Developer
 💻 As a Full Stack Developer, I enjoy crafting responsive, scalable, and user-friendly applications. I have strong problem-solving skills and a love for clean, maintainable code.
 
 [![GitQuest Rising Star #8](https://gitquest.dev/api/badges?type=ranking&rank=8&theme=dark)](https://gitquest.dev/player/Abdul-Rafay2005)
-
+<a href="https://gitquest.dev/player/Abdul-Rafay2005" target="_blank"><img src="https://gitquest.dev/api/badges?type=ranking&rank=51&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge"></a>
 
 ## 🌐 Portfolio
 
