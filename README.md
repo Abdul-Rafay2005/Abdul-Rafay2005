@@ -1,8 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abdul Rafay
 ===================================================================================================================================
 
+
 Full Stack Developer
 --------------------
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdul-Rafay2005" alt="Abdul-Rafay2005" /> 
+</a>
 
 💻 As a Full Stack Developer, I enjoy crafting responsive, scalable, and user-friendly applications. I have strong problem-solving skills and a love for clean, maintainable code.
 
