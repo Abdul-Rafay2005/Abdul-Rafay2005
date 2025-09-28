@@ -23,6 +23,7 @@ It features 3D elements with Three.js, smooth animations with Framer Motion, and
 ## 📊 GitHub Stats
 
 ![Abdul Rafay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rafay2005&show_icons=true&theme=radical)
+ <img alt="Abdul-Rafay2005 GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdul-Rafay2005&show_icons=true&theme=classic&include_all_commits=true&count_private=true" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=radical)
 
