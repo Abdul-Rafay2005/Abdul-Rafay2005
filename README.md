@@ -56,4 +56,4 @@ I'm an active contributor on [GitQuest](https://gitquest.dev/player/Abdul-Rafay2
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mrabdulrafay7788@gmail.com)
 
 
-Phone no: +92 3152462949
+
