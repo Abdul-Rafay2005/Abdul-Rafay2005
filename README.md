@@ -28,7 +28,7 @@ It features 3D elements with Three.js, smooth animations with Framer Motion, and
 </p>
 
 
-## 🏆 GitQuest Achievements
+## 🏆 My GitQuest Achievements
 
 I'm an active contributor on [GitQuest](https://gitquest.dev/player/Abdul-Rafay2005)!
 
