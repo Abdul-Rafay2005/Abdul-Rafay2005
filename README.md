@@ -20,13 +20,19 @@ It features 3D elements with Three.js, smooth animations with Framer Motion, and
 🔗 **Live Demo:** [3D Portfolio Website](https://3-d-portfolio-seven-kappa.vercel.app/)  
 
 
-## 📊 GitHub Stats
+## 🚀 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdul-Rafay2005&show_icons=true&theme=classic&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&langs_count=8&theme=classic" />
+  <a href="https://github.com/Abdul-Rafay2005">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdul-Rafay2005&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+```
 
 ## 🏆 My GitQuest Achievements
 
