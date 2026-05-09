@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 💻 As a Full Stack Developer, I enjoy crafting responsive, scalable, and user-friendly applications. I have strong problem-solving skills and a love for clean, maintainable code.
 
-[![GitQuest Rising Star #8](https://gitquest.dev/api/badges?type=ranking&rank=8&theme=dark)](https://gitquest.dev/player/Abdul-Rafay2005)
+
 <a href="https://gitquest.dev/player/Abdul-Rafay2005" target="_blank"><img src="https://gitquest.dev/api/badges?type=ranking&rank=51&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge"></a>
 
 ## 🌐 Portfolio
@@ -20,19 +20,24 @@ It features 3D elements with Three.js, smooth animations with Framer Motion, and
 🔗 **Live Demo:** [3D Portfolio Website](https://3-d-portfolio-seven-kappa.vercel.app/)  
 
 
-## 🚀 GitHub Analytics
+
+# 💫 GitHub Profile Stats
 
 <p align="center">
-  <a href="https://github.com/Abdul-Rafay2005">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdul-Rafay2005&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Abdul-Rafay2005&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul-Rafay2005&theme=tokyonight" />
 </p>
 ```
+
 
 ## 🏆 My GitQuest Achievements
 
