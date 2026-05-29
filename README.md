@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 
- Full Stack Developer & UI/UX at AKU
+ Full Stack Developer & UI/UX 
 --------------------
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdul-Rafay2005" alt="Abdul-Rafay2005" /> 
 </a>
