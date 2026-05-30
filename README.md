@@ -10,7 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💻 As a Full Stack Developer, I enjoy crafting responsive, scalable, and user-friendly applications. I have strong problem-solving skills and a love for clean, maintainable code.
 
 
-<a href="https://gitquest.dev/player/Abdul-Rafay2005" target="_blank"><img src="https://gitquest.dev/api/badges?type=ranking&rank=51&theme=dark" style="border-radius: 11px;" alt="GitQuest Badge"></a>
 
 ## 🌐 Portfolio
 
