@@ -38,15 +38,6 @@ It features 3D elements with Three.js, smooth animations with Framer Motion, and
 ```
 
 
-
-## 🏆 My GitQuest Achievements
-
-I'm an active contributor on [GitQuest](https://gitquest.dev/player/Abdul-Rafay2005)!
-
-- 🧩 Completed challenges and leveled up as a contributor  
-- 🚀 [View my GitQuest profile](https://gitquest.dev/player/Abdul-Rafay2005)
-
-
 ## 🛠️ Languages & Databases
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
