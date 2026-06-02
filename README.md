@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🌐 Portfolio
 
-🚀 I built a **3D interactive portfolio website** to showcase my skills, projects, and achievements.  
+ I built a **3D interactive portfolio website** to showcase my skills, projects, and achievements.  
 It features 3D elements with Three.js, smooth animations with Framer Motion, and a working contact form powered by EmailJS.  
 
 🔗 **Live Demo:** [3D Portfolio Website](https://3-d-portfolio-seven-kappa.vercel.app/)  
