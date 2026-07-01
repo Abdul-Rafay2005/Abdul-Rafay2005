@@ -17,36 +17,85 @@
 
 💻 As a **Full Stack Developer**, I enjoy crafting responsive, scalable, and user-friendly applications. I have strong problem-solving skills and a love for clean, maintainable code.
 
+🚀 **Founder of [Ravexa AI](https://github.com/Abdul-Rafay2005/Ravexa-AI)** — an AI career copilot for students and job seekers.
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </div>
 
 ---
 
-## 🌐 Featured Project — 3D Portfolio Website
+## 🌐 Portfolio
 
-A **3D interactive portfolio website** showcasing my skills, projects, and achievements — built with:
+Check out my personal site → **[raffay.me](https://www.raffay.me/)**
 
-- 🎨 **Three.js** — immersive 3D elements
-- 🎬 **Framer Motion** — smooth animations
-- 📩 **EmailJS** — working contact form
-
-**🔗 Live Demos:**
-- [3D Portfolio Website](https://3-d-portfolio-seven-kappa.vercel.app/)
-- [raffay.me](https://www.raffay.me/)
+I also built a **3D interactive portfolio** with Three.js, Framer Motion, and an EmailJS contact form:
+🔗 [3D Portfolio Website](https://3-d-portfolio-seven-kappa.vercel.app/)
 
 ---
 
-## 💫 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Abdul-Rafay2005&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎯 <a href="https://github.com/Abdul-Rafay2005/Ravexa-AI">Ravexa AI</a> <sub>· Founder</sub></h3>
+      An AI career copilot for students & job seekers — resume analysis, skill-gap mapping, personalized roadmaps, and mock interviews in one product.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>🌦️ <a href="https://github.com/Abdul-Rafay2005/Weather_Predictable">Weather Predictable</a></h3>
+      Built for <b>NASA Space Apps Challenge 2025</b> ("Will It Rain On My Parade?") — predicts rain probability and weather conditions for any date and location.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 <a href="https://github.com/Abdul-Rafay2005/Jarvis">Jarvis</a></h3>
+      A Python-based personal AI voice assistant with backend logic and a graphical frontend interface.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>💰 <a href="https://github.com/Abdul-Rafay2005/finance_manager">Finance Manager</a></h3>
+      A C++ personal finance tracker with income/expense categorization, spending alerts, undo support, and planned AI-based insights — built using vectors, hash maps, stacks, and priority queues.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdul-Rafay2005&theme=tokyonight" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdul-Rafay2005&theme=tokyonight" />
-</p>
+---
+
+## 💫 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay2005&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay2005&layout=compact&theme=radical&hide_border=true" width="30%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rafay2005&theme=radical&hide_border=true" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rafay2005&theme=redical&hide_border=true" width="90%" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul-Rafay2005/Abdul-Rafay2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul-Rafay2005/Abdul-Rafay2005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdul-Rafay2005/Abdul-Rafay2005/output/github-contribution-grid-snake.svg">
+</picture>
+
+> 💡 The snake animation needs a one-time GitHub Actions setup — see note at the bottom.
 
 ---
 
@@ -86,3 +135,7 @@ A **3D interactive portfolio website** showcasing my skills, projects, and achie
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+---
+
+<sub>💡 <b>Setup note:</b> the contribution snake animation requires a one-time GitHub Action in a repo named exactly <code>Abdul-Rafay2005</code> (your profile repo). Add <code>.github/workflows/snake.yml</code> using <a href="https://github.com/Platane/snk">Platane/snk</a> — it auto-generates the SVG referenced above on a schedule.</sub>
