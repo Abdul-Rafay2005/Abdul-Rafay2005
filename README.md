@@ -17,7 +17,8 @@
 
 💻 As a **Full Stack Developer**, I enjoy crafting responsive, scalable, and user-friendly applications. I have strong problem-solving skills and a love for clean, maintainable code.
 
-🚀 **Founder of [Ravexa AI](https://github.com/Abdul-Rafay2005/Ravexa-AI)** — an AI career copilot for students and job seekers.
+<h2 align="center">🚀 Founder of <a href="https://github.com/Abdul-Rafay2005/Ravexa-AI">Ravexa AI</a></h2>
+<p align="center"><i>An AI career copilot for students and job seekers</i></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
@@ -82,11 +83,11 @@ I also built a **3D interactive portfolio** with Three.js, Framer Motion, and an
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rafay2005&theme=radical&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Abdul-Rafay2005&theme=radical&hide_border=true" width="60%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rafay2005&theme=redical&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Rafay2005&theme=radical&hide_border=true" width="90%" />
 </div>
 
 <picture>
@@ -106,10 +107,20 @@ I also built a **3D interactive portfolio** with Three.js, Framer Motion, and an
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Runtimes**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Databases**
 
