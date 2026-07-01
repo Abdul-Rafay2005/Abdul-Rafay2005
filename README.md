@@ -17,7 +17,7 @@
 
 💻 As a **Full Stack Developer**, I enjoy crafting responsive, scalable, and user-friendly applications. I have strong problem-solving skills and a love for clean, maintainable code.
 
-<h2 align="center">🚀 Founder of <a href="https://github.com/Abdul-Rafay2005/Ravexa-AI">Ravexa AI</a></h2>
+<h2 align="center">🚀 Founder of <a href="https://ravexa.tech">Ravexa AI</a></h2>
 <p align="center"><i>An AI career copilot for students and job seekers</i></p>
 
 <div align="center">
@@ -147,6 +147,4 @@ I also built a **3D interactive portfolio** with Three.js, Framer Motion, and an
   </a>
 </p>
 
----
 
-<sub>💡 <b>Setup note:</b> the contribution snake animation requires a one-time GitHub Action in a repo named exactly <code>Abdul-Rafay2005</code> (your profile repo). Add <code>.github/workflows/snake.yml</code> using <a href="https://github.com/Platane/snk">Platane/snk</a> — it auto-generates the SVG referenced above on a schedule.</sub>
