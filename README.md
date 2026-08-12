@@ -142,7 +142,7 @@ I also built a **3D interactive portfolio** with Three.js, Framer Motion, and an
 
 ---
 
-## 📫 Connect with 
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-rafay-18bab5356/">
